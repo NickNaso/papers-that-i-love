@@ -4,7 +4,7 @@ This reposistory contains a series of papers that inspired me on my work, so thi
 pushed me to share them with all of you.
 
 - **[Immutability changes everything](immutability_changes_everything.pdf)**
->There is an inexorable trend towards storing and sending immutable data. We need immutability to coordinate at a distance and we can afford immutability, as storage gets cheaper.
+  >There is an inexorable trend towards storing and sending immutable data. We need immutability to coordinate at a distance and we can afford immutability, as storage gets cheaper.
 
 ### Nicola Del Gobbo
 
